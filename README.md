@@ -1,7 +1,8 @@
 # Welcome to my GITHUB Page!
-## I am a Senior at Grand Valley State University
-## I am a Computer Science Major
-## Mainly work in Python, C++, and Java
+### My Name is Matthew Isip
+### I am a Senior at Grand Valley State University
+### I am a Computer Science Major
+### Mainly work in Python, C++, and Java
 <!--
 **matthewisip/matthewisip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
